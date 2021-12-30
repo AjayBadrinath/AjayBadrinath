@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AjayBadrinath
 - 👀 I’m interested in Programming as well as learning about hardware.
 - 🐍Absolutely love python .
-- Have done quite a few projects on python ie ..Bot that attend zoom meetings automatically,Sql dbms interfacing python These repos will be up here soon
+- Have done quite a few projects on python ie ..Bot that attend zoom meetings automatically,Sql db interfacing with  python These repos will be up here soon
 - Always humbled to learn from you and the inputs you provide are valueble to me .So feel free to approach me .
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on (well have to think about it later)
