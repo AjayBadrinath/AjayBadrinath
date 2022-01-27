@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on (well have to think about it later)
 - 📫 How to reach me 
-[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayBadrinath)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 AjayBadrinath/AjayBadrinath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayBadrinath)
