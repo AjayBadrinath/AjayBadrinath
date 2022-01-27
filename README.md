@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
-![Ajay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AjayBadrinath&show_icons=true&theme=merko)
+
