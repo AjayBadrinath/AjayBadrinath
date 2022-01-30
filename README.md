@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayBadrinath&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
