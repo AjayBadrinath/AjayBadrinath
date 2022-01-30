@@ -8,14 +8,7 @@
 - 📫 How to reach me 
 
 
-Languages And Tools:
 
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg??style=?style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!---
 AjayBadrinath/AjayBadrinath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
