@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
 
-
+![Visitor Count](https://profile-counter.glitch.me/AjayBadrinath/count.svg)
