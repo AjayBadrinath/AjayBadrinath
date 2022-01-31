@@ -18,8 +18,6 @@ ________________________________________________________________________________
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
 _________________________________________________________________________________
 Visitor Count:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayBadrinath&label=Profile%20views&color=0e75b6&style=flat" alt="AjayBadrinath" /> </p>
-
 ![Visitor Count](https://profile-counter.glitch.me/AjayBadrinath/count.svg)
 _________________________________________________________________________________
 <h3 align="left">Languages and Tools:</h3>
