@@ -31,4 +31,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 <h3 align="left">GithubTrophies:</h3>
 <p align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayBadrinath&title=Commit,Repo,Followers" alt="AjayBadrinath" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayBadrinath&title=Commit,Repo,Followers&theme=monokai" alt="AjayBadrinath" /></a> </p>
+_____________________________________________________________________________________
+<h3 align="left">Current Streak:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBadrinath&theme=dark" alt="AjayBadrinath" /></p>
