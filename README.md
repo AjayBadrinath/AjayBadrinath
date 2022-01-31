@@ -17,7 +17,8 @@ ________________________________________________________________________________
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
 _________________________________________________________________________________
-Visitor Count:
+<h3 align="left">Visitor Count:</h3>
+<p align="left">
 ![Visitor Count](https://profile-counter.glitch.me/AjayBadrinath/count.svg)
 _________________________________________________________________________________
 <h3 align="left">Languages and Tools:</h3>
