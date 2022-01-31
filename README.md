@@ -28,5 +28,6 @@ ________________________________________________________________________________
 <a href="https://linkedin.com/in/ajay-badrinath-151a82225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaabb" height="30" width="40" /></a>
 </p>
 ______________________________________________________________________________________
-Trophies:
+<h3 align="left">GithubTrophies:</h3>
+<p align="left">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayBadrinath&title=Commit,Repo,Followers" alt="AjayBadrinath" /></a> </p>
