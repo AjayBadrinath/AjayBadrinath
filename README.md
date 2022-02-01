@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on (well have to think about it later)
 - 📫 How to reach me 
-
+Check That Dropdown😉
 
 
 <!---
@@ -22,12 +22,13 @@ ________________________________________________________________________________
 
 ![Visitor Count](https://profile-counter.glitch.me/AjayBadrinath/count.svg)
 ____________________________________________________________________________________________________________________________________________________
-<details>
-<summary>Other Stuff</summary>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+<details>
+<summary><b>Other Github Stats : </b></summary>
+<br>
 
 ______________________________________________________________________________________________________________________________________________________
 
@@ -41,14 +42,15 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 
 
-<h3 align="left">GithubTrophies:</h3>
-<p align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayBadrinath&title=Commit,Repo,Followers&theme=monokai" alt="AjayBadrinath" /></a> </p>
+<h3 align="center">GithubTrophies:</h3>
+<p align="right">
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayBadrinath&title=Commit,Repo,Followers&theme=monokai" alt="AjayBadrinath" /></a> </p>
 
 
 _________________________________________________________________________________________________________________________________________________________
 
 
-<h3 align="left">Current Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBadrinath&theme=dark" alt="AjayBadrinath" /></p>
+<h3 align="center">Current Streak:</h3>
+ <p align="right">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBadrinath&theme=dark" alt="AjayBadrinath" /></p>
 </details>
