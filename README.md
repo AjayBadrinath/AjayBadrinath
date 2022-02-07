@@ -55,5 +55,6 @@ ________________________________________________________________________________
  <p align="right">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBadrinath&theme=dark" alt="AjayBadrinath" /></p>
 
+ <!--- ![Ajay's github activity graph](https://graphgithub.herokuapp.com/graph?username=AjayBadrinath&theme=elegant&area=true&hide_border=true)
  
 <!---</details>
