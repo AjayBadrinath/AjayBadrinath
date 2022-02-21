@@ -3,7 +3,7 @@
 - 🐍Absolutely love python .
 - Have done quite a few projects on python ie ..Bot that attend zoom meetings automatically,Email Notifier ,MySql db interfacing with  python These repos will be up here soon
 - Always humbled to learn from you and the inputs you provide are valueble to me .So feel free to approach me .
-- 🌱 I’m currently learning C Language and Assembly (x86)
+- 🌱 I’m currently learning C Language and Assembly (x86).
 - 💞️ I’m looking to collaborate on (well have to think about it later)
 - 📫 How to reach me 
 Check That Dropdown😉
