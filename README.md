@@ -16,11 +16,16 @@ Check That Dropdown😉
 AjayBadrinath/AjayBadrinath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-___________________________________________________________________________________________________________________________________________________
+<!---
+______________________________________________________________________________________________________________________________________________
 ![Ajay's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
 ![Most Used Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
 ____________________________________________________________________________________________________________________________________________________
-
+--->
+_____________________________________________________________________________________________________________________________________________________
+![Ajay's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayBadrinath&show_icons=true&theme=merko)
+_____________________________________________________________________________________________________________________________________________________
 
 <h3 align="left">Visitor Count:</h3>
 
