@@ -64,6 +64,19 @@ ________________________________________________________________________________
  <p align="right">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayBadrinath&theme=dark" alt="AjayBadrinath" /></p>
 
+_________________________________________________________________________________________________________________________________________________________
+
+<p align="right">
+ 
+ <h3 align="center">
+  
+  
+  ![Ajay's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AjayBadrinath)
+</h3>
+
+
+
+
  <!--- ![Ajay's github activity graph](https://graphgithub.herokuapp.com/graph?username=AjayBadrinath&theme=elegant&area=true&hide_border=true)
  
 <!---</details>
