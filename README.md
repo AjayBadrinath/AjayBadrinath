@@ -24,7 +24,7 @@ ________________________________________________________________________________
 --->
 _____________________________________________________________________________________________________________________________________________________
 ![Ajay's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AjayBadrinath&show_icons=true&theme=merko)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&langs_count=14&exclude_repo=CS3809-WebTechLab,AudioAnalysis,PasswordManager,Foundations-Of-DataScience&theme=merko)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayBadrinath&langs_count=14&exclude_repo=CS3809-WebTechLab,AudioAnalysis,PasswordManager,Foundations-Of-DataScience,AI_AlgorithmVisualisation&theme=merko)
 _____________________________________________________________________________________________________________________________________________________
 
 <h3 align="left">Visitor Count:</h3>
