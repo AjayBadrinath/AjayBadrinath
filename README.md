@@ -3,9 +3,10 @@
 - 👋 Hi, I’m @AjayBadrinath
 - 👀 I’m interested in Programming as well as learning about hardware stuff.
 
-  Currently working on a Homebrew OS and From the scratch implementation stuff .
+- Currently working on a Homebrew OS and From the scratch implementation stuff .
 
-- Interested in Cyber Security and Cryptography 
+- Interested in Machine Learning , Cyber Security and Cryptography (not necessarily in the order though :>)
+
 
 
 
