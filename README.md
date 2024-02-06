@@ -1,11 +1,29 @@
+<div align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Londrina+Sketch&duration=3000&pause=1000&color=892DF7&background=D825FF00&center=true&random=false&width=435&lines=Hi+I+am+Ajay+Badrinath;Undergrad@Shiv+Nadar+University+CSE(IoT);IoTEngineer;Programmer+;Machine+Learning+and+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+ 
+</div>
 
 
 - 👋 Hi, I’m @AjayBadrinath
 - 👀 I’m interested in Programming as well as learning about hardware stuff.
-
-- Currently working on a Homebrew OS and From the scratch implementation stuff .
+- Programmer | Tennis player  | Full time Learner |  
+  
+- Currently working on a Homebrew OS and From the scratch implementation for several Algorithms .
 
 - Interested in Machine Learning , Cyber Security and Cryptography (not necessarily in the order though :>)
+
+- Experienced in C/C++ , x86 Assembly, Java , Python and Related Frameworks.
+
+- That's about me
+
+ <div id="badges" align="left">
+   &nbsp; &nbsp; Lets Connect
+    <a href="https://www.linkedin.com/in/ajay-badrinath/">
+        <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge" />
+    </a>
+</div>
+  
 
 
 
