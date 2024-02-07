@@ -12,7 +12,7 @@
 ```yaml
 name: Ajay Badrinath
 located_in: Chennai
-from: Nantes (India)
+from: Chennai / Trichy  (India)
 education: ["Bachelors in Computer Science with Specialization in IoT"]
 company: Shiv Nadar University
 
