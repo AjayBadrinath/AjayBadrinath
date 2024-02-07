@@ -8,7 +8,7 @@
  
 </div>
 
-
+<!-- With Thanks from https://github.com/guilyx -->
 ```yaml
 name: Ajay Badrinath
 located_in: Chennai
