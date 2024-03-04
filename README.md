@@ -33,7 +33,8 @@ hobbies: ["Tennis", "Programming", "Implementing things from scratch!"]
 
 - Interested in Machine Learning , Cyber Security and Cryptography (not necessarily in the order though :>)
 
-- Experienced in C/C++ , x86 Assembly, Java , Python and Related Frameworks.
+- Experienced in C/C++ , x86 Assembly, Java , Python and Related Frameworks .
+
 
 - That's about me
 
