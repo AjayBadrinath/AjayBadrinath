@@ -11,10 +11,12 @@
 <!-- With Thanks from https://github.com/guilyx -->
 ```yaml
 name: Ajay Badrinath
-located_in: Chennai
-from: Chennai / Trichy  (India)
-education: ["Bachelors in Computer Science with Specialization in IoT"]
-company: Shiv Nadar University
+located_in: Chennai/ Pilani 
+from: Pilani / Chennai / Trichy  (India)
+current_education: ["Masters in Software Systems"]
+masters: BITS Pilani
+bachelors_education: ["Bachelors in Computer Science with Specialization in IoT"]
+undergrad: Shiv Nadar University Chennai
 
 fields_of_interests: ["Machine Learning", "Cryptography and Cyber Security", "Design Of Algorithms", "Neuromorphic Computing", 
                       "Operating Systems", "Sensor Design", "Embedded Systems"]
