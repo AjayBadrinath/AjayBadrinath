@@ -4,7 +4,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=timeGradient&section=header&reversal=true"></img>
 </p>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Londrina+Sketch&duration=3000&pause=1000&color=892DF7&background=D825FF00&center=true&random=false&width=435&lines=Hi+I+am+Ajay+Badrinath;Undergrad@Shiv+Nadar+University+CSE(IoT);IoTEngineer;Programmer+;Machine+Learning+and+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Londrina+Sketch&duration=3000&pause=1000&color=892DF7&background=D825FF00&center=true&random=false&width=435&lines=Hi+I+am+Ajay+Badrinath;Software+Systems@BITS+Pilani;CSE(IoT)@Shiv+Nadar+University+Chennai;IoTEngineer;Programmer+;Machine+Learning+and+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
  
 </div>
 
